@@ -1,0 +1,21 @@
+{
+    "name": "phillow-dark",
+    "displayName": "Phillow Dark",
+    "description": "Phillow Dark is an optimized dark theme for VS Code.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Phillow Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Phillow Dark-color-theme.json"
+            }
+        ]
+    }
+}
