@@ -25,10 +25,40 @@
     },
     {
       "settings": {
+        "foreground": "#E1A6F2",
+        "fontStyle": "None"
+      },
+      "name": "Other",
+      "scope": "constant.numeric.css"
+    },
+    {
+      "settings": {
+        "foreground": "#b3b9c5",
+        "fontStyle": "None"
+      },
+      "name": "Other",
+      "scope": "keyword.control.default.js"
+    },
+    {
+      "settings": {
+        "foreground": "#4caf50"
+      },
+      "name": "Other",
+      "scope": "entity.other.attribute-name.class.css"
+    },
+    {
+      "settings": {
         "foreground": "#c4c4c4"
       },
       "name": "String",
       "scope": "string, constant.other.symbol, entity.other.inherited-class, punctuation.definition.string, markup.underline.link.image.markdown, string.other.link, markup.raw.inline, markup.inserted, markup.inserted.git_gutter, string.other.link.title.markdown, variable.parameter.url.scss"
+    },
+    {
+      "settings": {
+        "foreground": "#ffffff"
+      },
+      "name": "Other",
+      "scope": "constant.language.boolean.true.js"
     },
     {
       "settings": {
@@ -39,7 +69,7 @@
     },
     {
       "settings": {
-        "foreground": "#a265b3",
+        "foreground": "#4caf50",
         "fontStyle": "bold"
       },
       "name": "Attribute",
@@ -90,14 +120,16 @@
     },
     {
       "settings": {
-        "foreground": "#fca369"
+        "foreground": "#752894",
+        "fontStyle": "bold"
       },
       "name": "Number",
-      "scope": "constant.numeric, keyword.other.unit, markup.quote"
+      "scope": "keyword.other.unit, markup.quote"
     },
     {
       "settings": {
-        "foreground": "#e1a6f2"
+        "foreground": "#e1a6f2",
+        "fontStyle": "None"
       },
       "name": "Support",
       "scope": "support.function, constant, entity.other.attribute-name.id, markup.italic, punctuation.definition.italic, markup.changed, markup.changed.git_gutter, support.constant.property-value"
