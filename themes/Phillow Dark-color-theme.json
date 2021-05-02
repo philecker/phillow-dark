@@ -4,6 +4,7 @@
 	"colors": {
     "activityBar.background": "#19181A",
 		"activityBarBadge.background": "#4caf50",
+    "activityBarBadge.foreground": "#19181A",
     "activityBar.foreground": "#C1C0C0",
     "editor.background": "#252526",
 		"editor.foreground": "#b3b3b3",
@@ -11,8 +12,8 @@
     "sideBar.background": "#323232",
     "sideBar.foreground": "#b3b3b3",
 		"sideBarTitle.foreground": "#2d2d2d",
-    "statusBar.background" : "#4caf50",
-    "statusBar.noFolderBackground" : "#4caf50",
+    "statusBar.background" : "#2d2d2d",
+    "statusBar.noFolderBackground" : "#2d2d2d",
     "tab.activeBorder": "#4caf50"
 	},
 	"tokenColors": [
@@ -24,28 +25,29 @@
     },
     {
       "settings": {
-        "foreground": "#92d192"
+        "foreground": "#c4c4c4"
       },
       "name": "String",
       "scope": "string, constant.other.symbol, entity.other.inherited-class, punctuation.definition.string, markup.underline.link.image.markdown, string.other.link, markup.raw.inline, markup.inserted, markup.inserted.git_gutter, string.other.link.title.markdown, variable.parameter.url.scss"
     },
     {
       "settings": {
-        "foreground": "#ffeea6"
+        "foreground": "#fff1b0"
       },
       "name": "Keyword",
       "scope": "keyword, keyword.operator.expression.typeof, variable.language.this, storage, support.function.construct.output.php, keyword.operator.new, markup.inline.raw.string.markdown, keyword.operator.expression.import.js"
     },
     {
       "settings": {
-        "foreground": "#ffd479"
+        "foreground": "#a265b3",
+        "fontStyle": "bold"
       },
       "name": "Attribute",
       "scope": "entity.other.attribute-name, entity.other.attribute-name.class.css, markup.heading punctuation.definition.heading, entity.name.section, entity.other.attribute-name.class.css, string.unquoted.alias.graphql"
     },
     {
       "settings": {
-        "foreground": "#ffffff",
+        "foreground": "#4caf50",
         "fontStyle": "bold"
       },
       "name": "Function",
