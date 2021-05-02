@@ -9,6 +9,7 @@
     "editor.background": "#252526",
 		"editor.foreground": "#b3b3b3",
     "panel.background": "#403E41",
+    "panelSectionHeader.foreground": "#ffffff",
     "sideBar.background": "#323232",
     "sideBar.foreground": "#b3b3b3",
 		"sideBarTitle.foreground": "#2d2d2d",
@@ -62,7 +63,7 @@
     },
     {
       "settings": {
-        "foreground": "#fff1b0"
+        "foreground": "#FFD866"
       },
       "name": "Keyword",
       "scope": "keyword, keyword.operator.expression.typeof, variable.language.this, storage, support.function.construct.output.php, keyword.operator.new, markup.inline.raw.string.markdown, keyword.operator.expression.import.js"
@@ -136,7 +137,7 @@
     },
     {
       "settings": {
-        "foreground": "#ac8d58"
+        "foreground": "#FFD866"
       },
       "name": "Operator",
       "scope": "keyword.operator, constant.character.escape, constant.character.escape.json, entity.other.attribute-name.pseudo-element.css, entity.other.attribute-name.pseudo-class.css, keyword.operator, punctuation.accessor.js, punctuation.definition.block.tag.jsdoc, storage.type.class.jsdoc"
