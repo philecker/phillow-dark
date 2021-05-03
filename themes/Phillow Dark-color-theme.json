@@ -21,8 +21,16 @@
     {
       "settings": {
         "background": "#2d2d2d",
-        "foreground": "#b3b9c5"
+        "foreground": "#ffffff"
       }
+    },
+    {
+      "settings": {
+        "foreground": "#ffffff",
+        "fontStyle": "None"
+      },
+      "name": "Other",
+      "scope": "meta.tag.js"
     },
     {
       "settings": {
@@ -42,7 +50,7 @@
     },
     {
       "settings": {
-        "foreground": "#4caf50"
+        "foreground": "#e1a6f2"
       },
       "name": "Other",
       "scope": "entity.other.attribute-name.class.css"
@@ -70,8 +78,8 @@
     },
     {
       "settings": {
-        "foreground": "#4caf50",
-        "fontStyle": "bold"
+        "foreground": "#9887e4",
+        "fontStyle": "italic bold"
       },
       "name": "Attribute",
       "scope": "entity.other.attribute-name, entity.other.attribute-name.class.css, markup.heading punctuation.definition.heading, entity.name.section, entity.other.attribute-name.class.css, string.unquoted.alias.graphql"
@@ -107,7 +115,8 @@
     },
     {
       "settings": {
-        "foreground": "#777c85"
+        "foreground": "#6e6e6e",
+        "fontStyle": "italic"
       },
       "name": "Comment",
       "scope": "comment, punctuation.definition.comment, punctuation.separator.key-value, punctuation.separator, meta.template.expression.js, punctuation.definition.template-expression.begin.js, punctuation.definition.template-expression.end.js, markup.underline.link.markdown, punctuation.definition.metadata.markdown"
