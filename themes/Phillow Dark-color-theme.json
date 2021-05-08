@@ -19,19 +19,19 @@
 	},
 	"tokenColors": [
     {
-      "scope": "entity.name.tag, keyword.control.conditional, meta.embedded.expression",
+      "scope": "entity.name.function.js, meta.object-literal.key.js.jsx, support.type.property-name.json",
       "settings": {
         "fontStyle": "bold"
       }
     },
     {
-      "scope": "entity.other.attribute-name.html, punctuation.definition.comment, comment.block, storage.type, keyword.control.default",
+      "scope": "variable.language.this.js.jsx, entity.other.attribute-name.html, punctuation.definition.comment, comment.block, storage.type, keyword.control.default, meta.object-literal.key.js.jsx",
       "settings": {
         "fontStyle": "italic"
       }
     },
     {
-      "scope": "",
+      "scope": "string.template.js.jsx",
       "settings": {
         "fontStyle": "underline"
       }
@@ -55,21 +55,15 @@
       }
     },
     {
-      "scope": "string.quoted.double, string.quoted.single",
+      "scope": "string.quoted.double, string.quoted.single, variable.other.readwrite.js, meta.tag.without-attributes.js.jsx",
       "settings": {
         "foreground": "#e8f5e9"
       }
     },
     {
-      "scope": "punctuation.definition, punctuation.support, variable.other.readwrite",
+      "scope": "variable.language.this.js.jsx, punctuation.definition.comment, comment.block, storage.type, punctuation.definition, punctuation.support, variable.other.readwrite, punctuation.support.type.property-name.begin.json, punctuation.definition.comment.js.jsx, comment.line.double-slash.js.jsx, punctuation.definition.block.tag.jsdoc",
       "settings": {
-        "foreground": "#9e9e9e"
-      }
-    },
-    {
-      "scope": "punctuation.definition.comment, comment.block, storage.type",
-      "settings": {
-        "foreground": "#757575"
+        "foreground": "#616161"
       }
     },
     {
@@ -85,15 +79,27 @@
       }
     },
     {
-      "scope": "constant.language.boolean, punctuation.definition.block, punctuation.section.embedded.begin",
+      "scope": "meta.object-literal.key.js.jsx, support.type.property-name.json",
+      "settings": {
+        "foreground": "#7d45df"
+      }
+    },
+    {
+      "scope": "source.js.jsx",
+      "settings": {
+        "foreground": "#ffb300"
+      }
+    },
+    {
+      "scope": "constant.language.boolean, punctuation.definition.block, punctuation.section.embedded.begin, punctuation.section.embedded.begin.js",
       "settings": {
         "foreground": "#ffe082"
       }
     },
     {
-      "scope": "keyword.control.flow",
+      "scope": "keyword.control.flow, variable.other.readwrite.alias.js, variable.other.constant.js",
       "settings": {
-        "foreground": "#50939B"
+        "foreground": "#51c7b3"
       }
     },
   ]

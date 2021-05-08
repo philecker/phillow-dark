@@ -3,7 +3,7 @@
     "publisher": "philecker",
     "displayName": "Phillow Dark",
     "description": "Phillow Dark is an optimized dark theme for VS Code.",
-    "version": "0.0.3",
+    "version": "0.0.5",
     "engines": {
         "vscode": "^1.55.0"
     },
