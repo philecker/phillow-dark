@@ -2,6 +2,9 @@
 
 All notable changes to the "phillow-dark" extension will be documented in this file.
 
+### [0.7.2] (05/10/2021)
+- Updated package keywords
+
 ### [0.7.1] (05/10/2021)
 - Fixed quoted key styling
 - Updated README.md
