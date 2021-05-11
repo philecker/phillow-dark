@@ -31,7 +31,7 @@
       }
     },
     {
-      "scope": "variable.language.this.js.jsx, entity.other.attribute-name.html, entity.other.attribute-name.js, punctuation.definition.comment, comment.block, storage.type, keyword.control.default, meta.object-literal.key.js.jsx",
+      "scope": "variable.language.this.js.jsx, storage.type, entity.other.attribute-name.html, entity.other.attribute-name.js, punctuation.definition.comment, comment.block, keyword.control.default, meta.object-literal.key.js.jsx",
       "settings": {
         "fontStyle": "italic"
       }
@@ -45,7 +45,7 @@
     {
       "scope": "",
       "settings": {
-        "fontStyle": ""
+        "fontStyle": "italic bold"
       }
     },
     {
@@ -61,13 +61,13 @@
       }
     },
     {
-      "scope": "constant.language.boolean, string.quoted.double, string.quoted.single, constant.language.null.js, variable.other.readwrite.js, meta.tag.without-attributes.js.jsx",
+      "scope": "meta.tag.attributes.js.jsx, constant.language.boolean, constant.language.null.js, variable.other.readwrite.js, meta.tag.without-attributes.js.jsx",
       "settings": {
         "foreground": "#e8f5e9"
       }
     },
     {
-      "scope": "variable.language.this.js.jsx, comment.line.double-slash.js, punctuation.definition.comment, comment.block, storage.type, punctuation.definition, punctuation.support, variable.other.readwrite, punctuation.support.type.property-name.begin.json, punctuation.definition.comment.js.jsx, comment.line.double-slash.js.jsx, punctuation.definition.block.tag.jsdoc",
+      "scope": "comment.block.html, comment.line.double-slash.js, punctuation.definition.comment, comment.block, punctuation.definition, punctuation.support, variable.other.readwrite, punctuation.support.type.property-name.begin.json, punctuation.definition.comment.js.jsx, comment.line.double-slash.js.jsx, punctuation.definition.block.tag.jsdoc",
       "settings": {
         "foreground": "#616161"
       }
@@ -75,25 +75,19 @@
     {
       "scope": "meta.import, storage.type.function.arrow, keyword.operator.comparison",
       "settings": {
-        "foreground": "#ff8a65"
+        "foreground": "#e7967d"
       }
     },
     {
-      "scope": "",
+      "scope": "variable.language.this.js.jsx, storage.type",
       "settings": {
-        "foreground": "#d37558"
+        "foreground": "#b43939"
       }
     },
     {
-      "scope": "meta.object-literal.key.js.jsx",
+      "scope": "meta.object-literal.key.js.jsx, meta.object-literal.key",
       "settings": {
-        "foreground": "#7d45df"
-      }
-    },
-    {
-      "scope": "source.js.jsx",
-      "settings": {
-        "foreground": "#ffb300"
+        "foreground": "#8456d4"
       }
     },
     {
