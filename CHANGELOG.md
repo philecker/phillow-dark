@@ -2,6 +2,14 @@
 
 All notable changes to the "phillow-dark" extension will be documented in this file.
 
+### [0.8.0] (05/13/2021)
+- Updated README.md
+- Fixed issue with styling of JS variables
+- Added initial support of Markdown
+
+### [0.7.3] (05/10/2021)
+- Changed this/Storage Type color
+
 ### [0.7.2] (05/10/2021)
 - Updated package keywords
 

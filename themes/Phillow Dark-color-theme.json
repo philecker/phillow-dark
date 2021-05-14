@@ -20,7 +20,7 @@
     "statusBar.noFolderBackground": "#4C4C4C",
     "statusBarItem.prominentBackground": "#159c93",
     "statusBar.border": "#323232",
-    "tab.activeBorder": "#4caf50",
+    "tab.activeBorderTop": "#4caf50",
     "widget.shadow": "#19181A"
 	},
 	"tokenColors": [
@@ -49,19 +49,19 @@
       }
     },
     {
-      "scope": "entity.name.tag, support.type.property-name, entity.name.function",
+      "scope": "entity.name.tag, support.type.property-name, entity.name.function, punctuation.definition.heading.markdown",
       "settings": {
-        "foreground": "#4277da"
+        "foreground": "#5186e9"
       }
     },
     {
-      "scope": "entity.other.attribute-name, keyword.operator.assignment, punctuation.separator, meta.tag.attributes",
+      "scope": "entity.other.attribute-name, keyword.operator.assignment, punctuation.separator, meta.tag.attributes, meta.link.inline.markdown",
       "settings": {
         "foreground": "#c279cf"
       }
     },
     {
-      "scope": "meta.tag.attributes.js.jsx, constant.language.boolean, constant.language.null.js, variable.other.readwrite.js, meta.tag.without-attributes.js.jsx",
+      "scope": "meta.tag.attributes.js.jsx, constant.language.boolean, constant.language.null.js, meta.tag.without-attributes.js.jsx",
       "settings": {
         "foreground": "#e8f5e9"
       }
@@ -69,25 +69,25 @@
     {
       "scope": "comment.block.html, comment.line.double-slash.js, punctuation.definition.comment, comment.block, punctuation.definition, punctuation.support, variable.other.readwrite, punctuation.support.type.property-name.begin.json, punctuation.definition.comment.js.jsx, comment.line.double-slash.js.jsx, punctuation.definition.block.tag.jsdoc",
       "settings": {
-        "foreground": "#616161"
+        "foreground": "#474747"
       }
     },
     {
       "scope": "meta.import, storage.type.function.arrow, keyword.operator.comparison",
       "settings": {
-        "foreground": "#e7967d"
+        "foreground": "#d89a87"
       }
     },
+    // {
+    //   "scope": "",
+    //   "settings": {
+    //     "foreground": "#9b2c2c"
+    //   }
+    // },
     {
-      "scope": "variable.language.this.js.jsx, storage.type",
+      "scope": "variable.parameter.js.jsx, meta.object-literal.key.js.jsx, meta.object-literal.key, support.type.property-name.json",
       "settings": {
-        "foreground": "#b43939"
-      }
-    },
-    {
-      "scope": "meta.object-literal.key.js.jsx, meta.object-literal.key",
-      "settings": {
-        "foreground": "#8456d4"
+        "foreground": "#9261e7"
       }
     },
     {
@@ -97,9 +97,15 @@
       }
     },
     {
-      "scope": "keyword.control.flow, variable.other.readwrite.alias.js, variable.other.constant.js, support.type.property-name.json",
+      "scope": "markup.fenced_code.block.markdown, keyword.control.flow, variable.other.readwrite.alias.js, variable.other.object.js, variable.other.readwrite.js, variable.other.constant.js",
       "settings": {
         "foreground": "#51c7b3"
+      }
+    },
+    {
+      "scope": "variable.language.this.js.jsx, storage.type",
+      "settings": {
+        "foreground": "#92c452"
       }
     },
   ]
