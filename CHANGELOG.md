@@ -2,6 +2,9 @@
 
 All notable changes to the "phillow-dark" extension will be documented in this file.
 
+### [0.8.3] (05/15/2021)
+- Improved C# Support
+
 ### [0.8.2] (05/14/2021)
 - Improved TypeScript Support
 - Updated README.md
