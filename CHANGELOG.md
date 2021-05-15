@@ -2,6 +2,16 @@
 
 All notable changes to the "phillow-dark" extension will be documented in this file.
 
+### [0.8.2] (05/14/2021)
+- Improved TypeScript Support
+- Updated README.md
+- Enhanced Markdown styling
+- Updated Preview Image
+
+### [0.8.1] (05/14/2021)
+- Fixed issue with findMatchBackground contrast
+- Changed import/comparison color
+
 ### [0.8.0] (05/13/2021)
 - Updated README.md
 - Fixed issue with styling of JS variables
