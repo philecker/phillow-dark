@@ -2,6 +2,12 @@
 
 All notable changes to the "phillow-dark" extension will be documented in this file.
 
+### [0.8.5] (05/15/2021)
+- Updated purple to increase contrast
+
+### [0.8.4] (05/15/2021)
+- Fixed a grammar issue in README.md
+
 ### [0.8.3] (05/15/2021)
 - Improved C# Support
 

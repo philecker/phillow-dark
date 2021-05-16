@@ -2,9 +2,9 @@
 	"name": "Phillow Dark",
 	"type": "dark",
 	"colors": {
-    "activityBar.background": "#19181A",
+    "activityBar.background": "#1d1c1c",
 		"activityBarBadge.background": "#4caf50",
-    "activityBarBadge.foreground": "#19181A",
+    "activityBarBadge.foreground": "#1d1c1c",
     "activityBar.foreground": "#C1C0C0",
     "editor.background": "#252526",
 		"editor.foreground": "#b3b3b3",
@@ -90,7 +90,7 @@
     {
       "scope": "variable.parameter, meta.object-literal.key, meta.object-literal.key, support.type.property-name.json",
       "settings": {
-        "foreground": "#9261e7"
+        "foreground": "#ac82f5"
       }
     },
     {
