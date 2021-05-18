@@ -1,10 +1,8 @@
-Phillow Dark is an optimized dark theme designed to improve the overall coding experience. It's currently in early development, so please be patient as changes are made.
+Phillow Dark is an optimized dark theme designed to improve the overall development experience. It's currently in early development, so please be patient as changes are made.
 
-![Phillow Dark Preview](images/PhillowDark_Preview.png)
+### Feature Request/Issue
 
-### Issues/Requests
-
-If you found a problem, or have a feature request, please [open an issue](https://github.com/philecker/phillow-dark/issues) about it.
+Please [open an issue](https://github.com/philecker/phillow-dark/issues), if you have a feature request, or found a bug to report.
 
 ### Suggested Settings
 
@@ -23,7 +21,8 @@ If you found a problem, or have a feature request, please [open an issue](https:
 * TypeScript (Partial Support)
 * JSX
 * JSON
+* Jest (Partial Support)
 * Markdown (Partial Support)
 * Sass/SCSS (Partial Support)
-* C# (Coming Soon)
+* C# (Partial Support)
 * Handlebars (Coming Soon)

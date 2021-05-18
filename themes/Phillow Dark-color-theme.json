@@ -2,45 +2,73 @@
 	"name": "Phillow Dark",
 	"type": "dark",
 	"colors": {
-    "activityBar.background": "#1d1c1c",
-		"activityBarBadge.background": "#4caf50",
-    "activityBarBadge.foreground": "#1d1c1c",
+    "activityBar.background": "#181818",
+    "activityBarBadge.background": "#4caf50",
+    "activityBarBadge.foreground": "#252526",
     "activityBar.foreground": "#C1C0C0",
-    "editor.background": "#252526",
-		"editor.foreground": "#b3b3b3",
-    "editor.wordHighlightBackground": "#323232",
-    "editor.findMatchBackground": "#323232",
-    "editor.findMatchHighlightBackground": "#323232",
-    "editor.findMatchBorder": "#323232",
-    "editor.findMatchHighlightBorder": "#323232",
-    "editor.findRangeHighlightBorder": "#323232",
-    "editor.selectionBackground": "#323232",
-    "editor.inactiveSelectionBackground": "#323232",
-    "settings.numberInputForeground": "#323232",
-    "panel.background": "#403E41",
-    "panelSectionHeader.foreground": "#ffffff",
+    "badge.background": "#4caf50",
+    "editor.background": "#202020",
+    "editor.foreground": "#b3b3b3",
+    "editorError.foreground": "#da6a48",
+    "editor.wordHighlightBackground": "#2D2D2D",
+    "editor.findMatchBackground": "#2D2D2D",
+    "editor.findMatchHighlightBackground": "#2D2D2D",
+    "editor.findMatchBorder": "#2D2D2D",
+    "editor.findMatchHighlightBorder": "#2D2D2D",
+    "editor.findRangeHighlightBorder": "#2D2D2D",
+    "editor.selectionBackground": "#2D2D2D",
+    "editor.inactiveSelectionBackground": "#2D2D2D",
+    // "gitDecoration.modifiedResourceForeground": "#4caf50",
+    "input.foreground": "#CCCCCC",
+    "input.placeholderForeground": "#CCCCCC",
+    "list.activeSelectionBackground": "#252526",
+    "list.focusOutline": "#252526",
+    "panel.border": "#2D2D2D",
+    "panel.background": "#1C1C1C",
+    "panelSectionHeader.background": "#5f5f5f",
+    "panelSectionHeader.foreground": "#cccccc",
     "panelTitle.inactiveForeground": "#999999",
-    "panel.border": "#323232",
-    "sideBar.background": "#323232",
+    "settings.numberInputForeground": "#CCCCCC",
+    "sideBar.background": "#2D2D2D",
     "sideBar.foreground": "#b3b3b3",
-		"sideBarTitle.foreground": "#ffffff",
+    "sideBarTitle.foreground": "#ffffff",
     "sideBarSectionHeader.background": "#4C4C4C",
     "statusBar.background": "#4C4C4C",
     "statusBar.noFolderBackground": "#4C4C4C",
     "statusBarItem.prominentBackground": "#159c93",
-    "statusBar.border": "#323232",
+    "statusBar.border": "#2D2D2D",
     "tab.activeBorderTop": "#4caf50",
-    "widget.shadow": "#19181A"
+    "terminal.background":"#1C1C1C",
+    "terminal.foreground":"#CCCCCC",
+    "terminalCursor.background":"#aca59c",
+    "terminalCursor.foreground":"#aca59c",
+    "terminal.ansiBlack":"#1D2021",
+    "terminal.ansiBlue":"#0D6678",
+    "terminal.ansiBrightBlack":"#665C54",
+    "terminal.ansiBrightBlue":"#0D6678",
+    "terminal.ansiBrightCyan":"#8BA59B",
+    "terminal.ansiBrightGreen":"#95C085",
+    "terminal.ansiBrightMagenta":"#8F4673",
+    "terminal.ansiBrightRed":"#FB543F",
+    "terminal.ansiBrightWhite":"#ffffff",
+    "terminal.ansiBrightYellow":"#FAC03B",
+    "terminal.ansiCyan":"#8BA59B",
+    "terminal.ansiGreen":"#95C085",
+    "terminal.ansiMagenta":"#8F4673",
+    "terminal.ansiRed":"#FB543F",
+    "terminal.ansiWhite":"#CCCCCC",
+    "terminal.ansiYellow":"#FAC03B",
+    "widget.shadow": "#2b2b2c"
 	},
 	"tokenColors": [
     {
-      "scope": "entity.name.function.js, meta.object-literal.key.js.jsx",
+      "scope": "entity.name.function, meta.object-literal.key",
       "settings": {
         "fontStyle": "bold"
       }
     },
     {
-      "scope": "storage.modifier, variable.language.this.js.jsx, storage.type, entity.other.attribute-name.html, entity.other.attribute-name.js, punctuation.definition.comment, comment.block, keyword.control.default, meta.object-literal.key.js.jsx",
+      "scope": "storage.modifier, variable.language.this, storage.type, entity.other.attribute-name, punctuation.definition.comment, comment.block, keyword.control.default, meta.object-literal.key",
       "settings": {
         "fontStyle": "italic"
       }
@@ -70,7 +98,7 @@
       }
     },
     {
-      "scope": "meta.tag.attributes.js.jsx, constant.language.boolean, constant.language.null.js, meta.tag.without-attributes.js.jsx",
+      "scope": "variable.other.object.property, variable.other.property.js.jsx , meta.tag.attributes.js.jsx, constant.language.boolean, constant.language.null.js, meta.tag.without-attributes.js.jsx",
       "settings": {
         "foreground": "#e8f5e9"
       }
@@ -106,10 +134,16 @@
       }
     },
     {
-      "scope": "storage.modifier, variable.language.this.js.jsx, storage.type",
+      "scope": "storage.modifier, variable.language.this, storage.type",
       "settings": {
         "foreground": "#92c452"
       }
     },
+    {
+      "scope": "keyword.other.get.cs, keyword.other.set.cs",
+      "settings": {
+        "foreground": "#c200fd",
+      }
+    }
   ]
 }

@@ -2,6 +2,22 @@
 
 All notable changes to the "phillow-dark" extension will be documented in this file.
 
+### [0.9.3] (05/18/2021)
+- Added missing JSX selector
+
+### [0.9.2] (05/18/2021)
+- Fixed bug with Variable Other Property styling
+
+### [0.9.1] (05/18/2021)
+- Revert git styling change
+- Update this styling globally
+- Fixed bug with Variable Other Object styling
+
+### [0.9.0] (05/17/2021)
+- Made important style updates to integrated terminal
+- Improved C# theme support
+- Update sidebar styling
+
 ### [0.8.5] (05/15/2021)
 - Updated purple to increase contrast
 
