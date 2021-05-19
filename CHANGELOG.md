@@ -2,6 +2,9 @@
 
 All notable changes to the "phillow-dark" extension will be documented in this file.
 
+### [0.9.4] (05/18/2021)
+- Update Terminal colors
+
 ### [0.9.3] (05/18/2021)
 - Added missing JSX selector
 
