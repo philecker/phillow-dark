@@ -3,7 +3,7 @@
     "publisher": "philecker",
     "displayName": "Phillow Dark",
     "description": "Phillow Dark is an optimized dark theme for VS Code.",
-    "version": "0.9.4",
+    "version": "0.10.1",
     "repository": {
       "type": "git",
       "url": "https://github.com/philecker/phillow-dark"
@@ -20,7 +20,16 @@
       "theme",
       "vivid",
       "bold",
-      "dark"
+      "dark",
+      "html",
+      "css",
+      "sass",
+      "scss",
+      "less",
+      "csharp",
+      "dockerfile",
+      "javascript",
+      "jsx"
     ],
     "contributes": {
         "themes": [

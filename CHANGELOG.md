@@ -2,6 +2,14 @@
 
 All notable changes to the "phillow-dark" extension will be documented in this file.
 
+### [0.10.1] (05/19/2021)
+- Updated Changelog
+
+### [0.10.0] (05/19/2021)
+- Fixed single/double quoted string styling
+- Improved C# colors
+- Added partial support for Docker, Less and Handlebars
+
 ### [0.9.4] (05/18/2021)
 - Update Terminal colors
 

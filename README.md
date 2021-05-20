@@ -4,16 +4,9 @@ Phillow Dark is an optimized dark theme designed to improve the overall developm
 
 Please [open an issue](https://github.com/philecker/phillow-dark/issues), if you have a feature request, or found a bug to report.
 
-### Suggested Settings
+![Phillow Dark Preview](images/PhillowDark_Preview.png)
 
-```
-"editor.fontFamily": "Fira Code",
-"editor.fontWeight": "300",
-"editor.fontLigatures": true,
-"editor.lineHeight": 26
-```
-
-### Language Support
+### Supported
 
 * HTML
 * CSS
@@ -22,7 +15,9 @@ Please [open an issue](https://github.com/philecker/phillow-dark/issues), if you
 * JSX
 * JSON
 * Jest (Partial Support)
+* Dockerfile (Partial Support)
 * Markdown (Partial Support)
 * Sass/SCSS (Partial Support)
+* Less (Partial Support)
 * C# (Partial Support)
-* Handlebars (Coming Soon)
+* Handlebars (Partial Support)
