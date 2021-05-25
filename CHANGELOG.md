@@ -2,6 +2,9 @@
 
 All notable changes to the "phillow-dark" extension will be documented in this file.
 
+### [0.10.2] (05/21/2021)
+- Improved JavaScript Highlighting
+
 ### [0.10.1] (05/19/2021)
 - Updated Changelog
 
