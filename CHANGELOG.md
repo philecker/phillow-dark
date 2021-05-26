@@ -2,6 +2,10 @@
 
 All notable changes to the "phillow-dark" extension will be documented in this file.
 
+### [0.11.0] (05/21/2021)
+- Added Darker "Plus" theme
+- Update theme green
+
 ### [0.10.2] (05/21/2021)
 - Improved JavaScript Highlighting
 

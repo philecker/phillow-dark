@@ -3,7 +3,7 @@
     "publisher": "philecker",
     "displayName": "Phillow Dark",
     "description": "Phillow Dark is an enhanced dark theme for VS Code.",
-    "version": "0.10.2",
+    "version": "0.11.0",
     "repository": {
       "type": "git",
       "url": "https://github.com/philecker/phillow-dark"
@@ -33,11 +33,16 @@
     ],
     "contributes": {
         "themes": [
-            {
-                "label": "Phillow Dark",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Phillow Dark-color-theme.json"
-            }
+          {
+              "label": "Phillow Dark",
+              "uiTheme": "vs-dark",
+              "path": "./themes/Phillow Dark-color-theme.json"
+          },
+          {
+            "label": "Phillow Dark Plus",
+            "uiTheme": "vs-dark",
+            "path": "./themes/Phillow Dark Plus-color-theme.json"
+          }
         ]
     }
 }

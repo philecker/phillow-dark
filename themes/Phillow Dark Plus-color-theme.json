@@ -1,5 +1,5 @@
 {
-  "name": "Phillow Dark",
+  "name": "Phillow Dark Plus",
   "type": "dark",
   "colors": {
     "activityBar.background": "#181818",
@@ -8,7 +8,7 @@
     "activityBar.foreground": "#C1C0C0",
     "badge.background": "#5af78e",
     "badge.foreground": "#252526",
-    "editor.background": "#202020",
+    "editor.background": "#000000",
     "editor.foreground": "#b3b3b3",
     "editorError.foreground": "#da6a48",
     "editor.wordHighlightBackground": "#2D2D2D",
