@@ -1,5 +1,5 @@
 {
-  "name": "Phillow Dark Plus",
+  "name": "Phillow Dark - After Dark",
   "type": "dark",
   "colors": {
     "activityBar.background": "#181818",
@@ -141,7 +141,7 @@
     {
       "scope": "punctuation.definition.keyword.scss, keyword.control.at-rule.mixin.scss, keyword.control.at-rule.include.scss, support.constant.handlebars, storage.modifier, variable.language.this",
       "settings": {
-        "foreground": "#5af78e"
+        "foreground": "#51d37c"
       }
     }
   ]

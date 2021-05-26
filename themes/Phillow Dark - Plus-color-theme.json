@@ -1,14 +1,14 @@
 {
-  "name": "Phillow Dark",
+  "name": "Phillow Dark - Plus",
   "type": "dark",
   "colors": {
-    "activityBar.background": "#181818",
+    "activityBar.background": "#000000",
     "activityBarBadge.background": "#5af78e",
     "activityBarBadge.foreground": "#252526",
     "activityBar.foreground": "#C1C0C0",
     "badge.background": "#5af78e",
     "badge.foreground": "#252526",
-    "editor.background": "#202020",
+    "editor.background": "#181818",
     "editor.foreground": "#b3b3b3",
     "editorError.foreground": "#da6a48",
     "editor.wordHighlightBackground": "#2D2D2D",
@@ -141,8 +141,9 @@
     {
       "scope": "punctuation.definition.keyword.scss, keyword.control.at-rule.mixin.scss, keyword.control.at-rule.include.scss, support.constant.handlebars, storage.modifier, variable.language.this",
       "settings": {
-        "foreground": "#51d37c"
+        "foreground": "#5af78e"
       }
     }
   ]
 }
+
