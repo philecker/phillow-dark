@@ -1,4 +1,4 @@
-Phillow Dark is an enhanced dark theme designed to improve the overall development experience. It's currently in early development, so please be patient as changes are made.
+Phillow Dark is an enhanced dark theme designed to improve the overall development experience.
 
 ### Feature Request/Issue
 

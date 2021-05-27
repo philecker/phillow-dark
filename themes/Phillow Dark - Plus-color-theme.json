@@ -61,89 +61,180 @@
   },
   "tokenColors": [
     {
-      "scope": "entity.name.function, meta.object-literal.key",
+      "scope": [
+        "entity.name.function",
+        "meta.object-literal.key"
+      ],
       "settings": {
         "fontStyle": "bold"
       }
     },
     {
-      "scope": "variable.language.this, storage.type, entity.name.type, entity.other.attribute-name, punctuation.definition.comment, comment.block, keyword.control.default, meta.object-literal.key, variable.other.object",
+      "scope": [
+        "variable.language.this",
+        "storage.type",
+        "entity.name.type",
+        "entity.other.attribute-name",
+        "punctuation.definition.comment",
+        "comment.block",
+        "keyword.control.default",
+        "meta.object-literal.key",
+        "variable.other.object"
+      ],
       "settings": {
         "fontStyle": "italic"
       }
     },
     {
-      "scope": "string.template.js.jsx",
+      "scope": [
+        "string.template.js.jsx"
+      ],
       "settings": {
         "fontStyle": "underline"
       }
     },
     {
-      "scope": "storage.modifier",
+      "scope": [
+        "storage.modifier"
+      ],
       "settings": {
         "fontStyle": "italic bold"
       }
     },
     {
-      "scope": "entity.name.tag, support.type.property-name, entity.name.function, punctuation.definition.heading.markdown, entity.name.type, punctuation.definition.comment",
+      "scope": [
+        "entity.name.tag",
+        "support.type.property-name",
+        "entity.name.function",
+        "punctuation.definition.heading.markdown",
+        "entity.name.type",
+        "punctuation.definition.comment"
+      ],
       "settings": {
         "foreground": "#5186e9"
       }
     },
     {
-      "scope": "entity.other.attribute-name, keyword.operator.assignment, punctuation.separator, meta.tag.attributes, meta.link.inline.markdown",
+      "scope": [
+        "entity.other.attribute-name",
+        "keyword.operator.assignment",
+        "punctuation.separator",
+        "meta.tag.attributes",
+        "meta.link.inline.markdown"
+      ],
       "settings": {
         "foreground": "#c279cf"
       }
     },
     {
-      "scope": "meta.tag.attributes, constant.language.boolean, constant.language.null, meta.tag.without-attributes",
+      "scope": [
+        "meta.tag.attributes",
+        "constant.language.boolean",
+        "constant.language.null",
+        "meta.tag.without-attributes"
+      ],
       "settings": {
         "foreground": "#e8f5e9"
       }
     },
     {
-      "scope": "string.quoted.single, string.quoted.double, variable.other.object.property, variable.other.property",
+      "scope": [
+        "string.quoted.single",
+        "string.quoted.double",
+        "variable.other.object.property",
+        "variable.other.property"
+      ],
       "settings": {
         "foreground": "#cccccc"
       }
     },
     {
-      "scope": "comment.line.double-slash, punctuation.definition.comment, comment.block, punctuation.definition, punctuation.support, variable.other.readwrite, punctuation.support.type.property-name.begin, punctuation.definition.block.tag",
+      "scope": [
+        "comment.line.double-slash",
+        "punctuation.definition.comment",
+        "comment.block",
+        "punctuation.definition",
+        "punctuation.support",
+        "variable.other.readwrite",
+        "punctuation.support.type.property-name.begin",
+        "punctuation.definition.block.tag"
+      ],
       "settings": {
         "foreground": "#777777"
       }
     },
     {
-      "scope": "keyword.control.import, keyword.control.flow, keyword.other.special-method, support.constant.property-value, keyword.other.using, meta.import, storage.type.function.arrow, keyword.operator.comparison, keyword.operator.relational, markup.fenced_code.block",
+      "scope": [
+        "keyword.control.import",
+        "keyword.control.flow",
+        "keyword.other.special-method",
+        "support.constant.property-value",
+        "keyword.other.using",
+        "meta.import",
+        "storage.type.function.arrow",
+        "keyword.operator.comparison",
+        "keyword.operator.relational",
+        "markup.fenced_code.block"
+      ],
       "settings": {
         "foreground": "#da6a48"
       }
     },
     {
-      "scope": "support.type.property-name, variable.parameter, meta.object-literal.key, storage.type, support.type.property-name, keyword.other.get, keyword.other.set",
+      "scope": [
+        "support.type.property-name",
+        "variable.parameter",
+        "meta.object-literal.key",
+        "storage.type",
+        "support.type.property-name",
+        "keyword.other.get",
+        "keyword.other.set"
+      ],
       "settings": {
         "foreground": "#ac82f5"
       }
     },
     {
-      "scope": "punctuation.definition.block, punctuation.section.embedded.begin, punctuation.section.embedded.begin.js, support.variable.property, variable.other.readwrite, variable.other.constant, entity.name.type.alias.ts",
+      "scope": [
+        "punctuation.definition.block",
+        "punctuation.section.embedded.begin",
+        "punctuation.section.embedded.begin.js",
+        "support.variable.property",
+        "variable.other.readwrite",
+        "variable.other.constant",
+        "entity.name.type.alias.ts"
+      ],
       "settings": {
         "foreground": "#ffe082"
       }
     },
     {
-      "scope": "punctuation.definition.variable.less, variable.parameter.js.jsx, variable.other.less, variable.scss, keyword.type, entity.name.type.namespace, variable.other.readwrite.alias, variable.other.object",
+      "scope": [
+        "punctuation.definition.variable.less",
+        "variable.parameter.js.jsx",
+        "variable.other.less",
+        "variable.scss",
+        "keyword.type",
+        "entity.name.type.namespace",
+        "variable.other.readwrite.alias",
+        "variable.other.object"
+      ],
       "settings": {
         "foreground": "#51c7b3"
       }
     },
     {
-      "scope": "punctuation.definition.keyword.scss, keyword.control.at-rule.mixin.scss, keyword.control.at-rule.include.scss, support.constant.handlebars, storage.modifier, variable.language.this",
+      "scope": [
+        "punctuation.definition.keyword.scss",
+        "keyword.control.at-rule.mixin.scss",
+        "keyword.control.at-rule.include.scss",
+        "support.constant.handlebars",
+        "storage.modifier",
+        "variable.language.this"
+      ],
       "settings": {
-        "foreground": "#5af78e"
+        "foreground": "#51d37c"
       }
     }
   ]
 }
-
