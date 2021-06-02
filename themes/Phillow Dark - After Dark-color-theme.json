@@ -87,7 +87,7 @@
         "variable.other.readwrite",
         "punctuation.support.type.property-name.begin",
         "punctuation.definition.block.tag",
-        "comment.line.number-sign"
+        "comment.line.number-sign",
       ],
       "settings": {
         "fontStyle": "italic"
@@ -179,9 +179,12 @@
         "keyword.other.special-method",
         "support.constant.property-value",
         "keyword.other.using",
+        "keyword.other.package",
         "meta.import",
+        "keyword.operator.arithmetic",
         "storage.type.function.arrow",
         "keyword.operator.comparison",
+        "keyword.operator.increment-decrement",
         "keyword.operator.relational",
         "markup.fenced_code.block"
       ],
@@ -211,7 +214,8 @@
         "support.variable.property",
         "variable.other.readwrite",
         "variable.other.constant",
-        "entity.name.type.alias.ts"
+        "entity.name.type.alias.ts",
+        "meta.method-call"
       ],
       "settings": {
         "foreground": "#ffe082"

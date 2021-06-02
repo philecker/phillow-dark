@@ -1,8 +1,10 @@
 Phillow Dark is an enhanced dark theme designed to improve the overall development experience.
 
-[![GitHub license](https://img.shields.io/github/license/philecker/phillow-dark?color=blue&style=flat-square)](https://github.com/philecker/phillow-dark/blob/main/LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/philecker/phillow-dark?style=flat-square)](https://github.com/philecker/phillow-dark/stargazers)
-[![GitHub issues](https://img.shields.io/github/issues/philecker/phillow-dark?color=blue&style=flat-square)](https://github.com/philecker/phillow-dark/issues)
+![GitHub Last Commit](https://flat.badgen.net/github/last-commit/philecker/phillow-dark/main)
+![Github License](https://flat.badgen.net/github/license/philecker/phillow-dark/)
+![VS Marketplace Downloads](https://flat.badgen.net/vs-marketplace/d/philecker.phillow-dark)
+![VS Marketplace Version](https://flat.badgen.net/vs-marketplace/v/philecker.phillow-dark)
+![VS Marketplace Rating](https://flat.badgen.net/vs-marketplace/rating/philecker.phillow-dark)
 
 ### Feature Request/Issue
 
@@ -25,4 +27,5 @@ Please [open an issue](https://github.com/philecker/phillow-dark/issues), if you
 * Less (Partial Support)
 * C# (Partial Support)
 * Handlebars (Partial Support)
+* Java (Partial Support)
 * Python (Partial Support)
