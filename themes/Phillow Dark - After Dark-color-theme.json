@@ -79,7 +79,15 @@
         "comment.block",
         "keyword.control.default",
         "meta.object-literal.key",
-        "variable.other.object"
+        "variable.other.object",
+        "comment.line.double-slash",
+        "punctuation.definition.comment",
+        "punctuation.definition",
+        "punctuation.support",
+        "variable.other.readwrite",
+        "punctuation.support.type.property-name.begin",
+        "punctuation.definition.block.tag",
+        "comment.line.number-sign"
       ],
       "settings": {
         "fontStyle": "italic"
@@ -108,7 +116,7 @@
         "entity.name.function",
         "punctuation.definition.heading.markdown",
         "entity.name.type",
-        "punctuation.definition.comment"
+        "support.function.builtin"
       ],
       "settings": {
         "foreground": "#5186e9"
@@ -157,7 +165,8 @@
         "punctuation.support",
         "variable.other.readwrite",
         "punctuation.support.type.property-name.begin",
-        "punctuation.definition.block.tag"
+        "punctuation.definition.block.tag",
+        "comment.line.number-sign"
       ],
       "settings": {
         "foreground": "#777777"

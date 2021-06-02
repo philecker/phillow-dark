@@ -2,8 +2,12 @@
 
 All notable changes to the "phillow-dark" extension will be documented in this file.
 
+### [1.0.0] (06/01/2021)
+- Added initial support for Python
+- Update badges in README.md
+
 ### [0.11.3] (05/28/2021)
-- Added badges to README.md
+- Added badges to README.md from [https://shields.io/](https://shields.io/)
 
 ### [0.11.2] (05/27/2021)
 - Improved readabilty of theme code
