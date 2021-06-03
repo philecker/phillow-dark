@@ -2,6 +2,12 @@
 
 All notable changes to the "phillow-dark" extension will be documented in this file.
 
+### [1.1.2] (06/03/2021)
+- Changed badge order
+
+### [1.1.1] (06/03/2021)
+- Updated badges in README.md
+
 ### [1.1.0] (06/02/2021)
 - Added initial support for Java
 - Replaced badges in README.md with [https://flat.badgen.net/](https://flat.badgen.net/)
