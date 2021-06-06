@@ -2,7 +2,7 @@ Phillow Dark is an enhanced dark theme designed to improve the overall developme
 
 ![VS Marketplace Rating](https://flat.badgen.net/vs-marketplace/rating/philecker.phillow-dark)
 ![Github License](https://flat.badgen.net/github/license/philecker/phillow-dark/)
-![GitHub Last Commit](https://flat.badgen.net/github/last-commit/philecker/phillow-dark/main)
+![GitHub Last Commit](https://flat.badgen.net/github/last-commit/philecker/phillow-dark/main/)
 ![VS Marketplace Version](https://flat.badgen.net/vs-marketplace/v/philecker.phillow-dark)
 
 ### Feature Request/Issue

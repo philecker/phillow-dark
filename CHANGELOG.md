@@ -2,6 +2,9 @@
 
 All notable changes to the "phillow-dark" extension will be documented in this file.
 
+### [1.2.2] (06/05/2021)
+- Fixed issue with badge not updating
+
 ### [1.2.1] (06/05/2021)
 - Changed current line foreground color
 - Updated badge order
