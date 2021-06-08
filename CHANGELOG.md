@@ -2,6 +2,9 @@
 
 All notable changes to the "phillow-dark" extension will be documented in this file.
 
+### [1.2.4] (06/07/2021)
+- Updated preview image
+
 ### [1.2.3] (06/05/2021)
 - Fixed issue with UI background
 
