@@ -11,7 +11,7 @@ Please [open an issue](https://github.com/philecker/phillow-dark/issues), if you
 
 ![Phillow Dark Preview](images/PhillowDark_Preview.png)
 
-### Supported
+### Supported Languages
 
 * HTML
 * CSS

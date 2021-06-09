@@ -2,6 +2,9 @@
 
 All notable changes to the "phillow-dark" extension will be documented in this file.
 
+### [1.2.5] (06/09/2021)
+- Improved visibilty of Boolean/Null
+
 ### [1.2.4] (06/07/2021)
 - Updated preview image
 

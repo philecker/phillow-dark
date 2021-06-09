@@ -67,7 +67,8 @@
     {
       "scope": [
         "entity.name.function",
-        "meta.object-literal.key"
+        "meta.object-literal.key",
+        "constant.language.boolean"
       ],
       "settings": {
         "fontStyle": "bold"
@@ -92,6 +93,7 @@
         "punctuation.support.type.property-name.begin",
         "punctuation.definition.block.tag",
         "comment.line.number-sign",
+        "constant.language.null"
       ],
       "settings": {
         "fontStyle": "italic"
