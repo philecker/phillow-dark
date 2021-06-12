@@ -2,6 +2,9 @@
 
 All notable changes to the "phillow-dark" extension will be documented in this file.
 
+### [1.3.0] (06/12/2021)
+- Added new theme (Before Dawn) with less saturation
+
 ### [1.2.5] (06/09/2021)
 - Improved visibilty of Boolean/Null
 
