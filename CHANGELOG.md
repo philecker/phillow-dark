@@ -2,6 +2,9 @@
 
 All notable changes to the "phillow-dark" extension will be documented in this file.
 
+### [1.3.1] (06/13/2021)
+- Changed editor/status bar background (Before Dawn Theme)
+
 ### [1.3.0] (06/12/2021)
 - Added new theme (Before Dawn) with less saturation
 
