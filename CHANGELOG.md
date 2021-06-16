@@ -2,8 +2,15 @@
 
 All notable changes to the "phillow-dark" extension will be documented in this file.
 
+### [1.4.1] (06/15/2021)
+- Darkened addtional UI (Dark Sky)
+
+### [1.4.0] (06/15/2021)
+- Added new theme (Dark Sky) with darker menu/less saturation
+- Updated README.md
+
 ### [1.3.1] (06/13/2021)
-- Changed editor/status bar background (Before Dawn Theme)
+- Changed editor/status bar background (Before Dawn)
 
 ### [1.3.0] (06/12/2021)
 - Added new theme (Before Dawn) with less saturation

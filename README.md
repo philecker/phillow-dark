@@ -7,7 +7,7 @@ Phillow Dark is an enhanced dark theme designed to improve the overall developme
 
 ### Feature Request/Issue
 
-Please [open an issue](https://github.com/philecker/phillow-dark/issues), if you have a feature request, or found a bug to report.
+Please [open an issue](https://github.com/philecker/phillow-dark/issues), if you have a feature request, or found a bug to report. If you are unhappy with the theme please reach out to me first, before submitting a negative review!
 
 ![Phillow Dark Preview](images/PhillowDark_Preview.png)
 
