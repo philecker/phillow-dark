@@ -2,6 +2,9 @@
 
 All notable changes to the "phillow-dark" extension will be documented in this file.
 
+### [1.4.4] (06/18/2021)
+- Changed status bar color/minor UI updates (Dark Sky/Starkness)
+
 ### [1.4.3] (06/17/2021)
 - Changed Plus theme name (Starkness)
 
