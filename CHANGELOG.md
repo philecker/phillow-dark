@@ -2,6 +2,9 @@
 
 All notable changes to the "phillow-dark" extension will be documented in this file.
 
+### [1.4.5] (06/18/2021)
+- Updated README.md
+
 ### [1.4.4] (06/18/2021)
 - Changed status bar color/minor UI updates (Dark Sky/Starkness)
 

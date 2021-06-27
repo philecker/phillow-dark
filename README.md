@@ -1,4 +1,5 @@
-Phillow Dark is an enhanced dark theme designed to improve the overall development experience.
+***NOTE:*** Phillow Dark is no longer in active development, if you like the theme you should check out [Antidote](https://marketplace.visualstudio.com/items?itemName=philecker.antidote) which combine all the best parts of this theme into one.
+
 
 ![Github License](https://flat.badgen.net/github/license/philecker/phillow-dark/)
 ![GitHub Last Commit](https://flat.badgen.net/github/last-commit/philecker/phillow-dark/main/)
