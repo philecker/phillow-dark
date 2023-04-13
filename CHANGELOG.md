@@ -1,7 +1,9 @@
 # Change Log
 
 All notable changes to the "phillow-dark" extension will be documented in this file.
-
+### [2.0.0] (04/13/2023)
+- Combined Antidote theme into Phillow Dark
+- Renamed "Phillow Dark" theme to "Phillow Dark - Legacy"
 ### [1.4.5] (06/18/2021)
 - Updated README.md
 

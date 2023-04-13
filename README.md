@@ -1,15 +1,20 @@
-***NOTE:*** Phillow Dark is no longer in active development, if you like the theme you should check out [Antidote](https://marketplace.visualstudio.com/items?itemName=philecker.antidote) which combine all the best parts of this theme into one.
-
+Phillow Dark is an enhanced dark theme designed to improve the overall coding experience. It's currently geared towards front-end developement, but will be reguarly updated to supprot more languages.
 
 ![Github License](https://flat.badgen.net/github/license/philecker/phillow-dark/)
 ![GitHub Last Commit](https://flat.badgen.net/github/last-commit/philecker/phillow-dark/main/)
 ![VS Marketplace Version](https://flat.badgen.net/vs-marketplace/v/philecker.phillow-dark)
 
-### Feature Request/Issue
+### Contributing
 
-Please [open an issue](https://github.com/philecker/phillow-dark/issues), if you have a feature request, or found a bug to report. If you are unhappy with the theme please reach out to me first, before submitting a negative review!
+See something strange or have a request? Please [open an issue](https://github.com/philecker/phillow-dark/issues).
 
-![Phillow Dark Preview](images/PhillowDark_Preview.png)
+### Recommended
+#### Font
+
+[JetBrains Mono](https://www.jetbrains.com/lp/mono/)
+
+    "editor.fontFamily":  "JetBrains Mono Thin",
+    "editor.fontLigatures": true
 
 ### Supported Languages
 
