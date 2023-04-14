@@ -1,15 +1,22 @@
-Phillow Dark is an enhanced dark theme designed to improve the overall coding experience. It's currently geared towards front-end developement, but will be reguarly updated to supprot more languages.
+Thank you for checking out Phillow Dark! This is a dark theme for VS Code that is designed to be easy on the eyes during extended use. It's primarly geared towards front-end development but also supports several backend languages.
+Contributing
 
-![Github License](https://flat.badgen.net/github/license/philecker/phillow-dark/)
-![GitHub Last Commit](https://flat.badgen.net/github/last-commit/philecker/phillow-dark/main/)
-![VS Marketplace Version](https://flat.badgen.net/vs-marketplace/v/philecker.phillow-dark)
+![Github License](https://flat.badgen.net/github/license/philecker/Phillow-dark/)
+![GitHub Last Commit](https://flat.badgen.net/github/last-commit/philecker/Phillow-dark/main/)
+![VS Marketplace Version](https://flat.badgen.net/vs-marketplace/v/philecker.Phillow-dark)
 
 ### Contributing
 
-See something strange or have a request? Please [open an issue](https://github.com/philecker/phillow-dark/issues).
+I welcome contributions from anyone who is interested in helping to improve Phillow Dark.
 
-### Recommended
-#### Font
+Whether you want to report a bug, suggest a new feature, or even submit a code change, I would be happy to have your input by [opening an issue](https://github.com/philecker/phillow-dark/issues).
+
+To contribute, simply fork this repository and submit a pull request with your changes.
+
+Thank you for your interest in Phillow Dark, and I look forward to working with you!
+
+### Recommended Font
+
 
 [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
 
