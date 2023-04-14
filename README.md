@@ -1,5 +1,4 @@
 Thank you for checking out Phillow Dark! This is a dark theme for VS Code that is designed to be easy on the eyes during extended use. It's primarly geared towards front-end development but also supports several backend languages.
-Contributing
 
 ![Github License](https://flat.badgen.net/github/license/philecker/Phillow-dark/)
 ![GitHub Last Commit](https://flat.badgen.net/github/last-commit/philecker/Phillow-dark/main/)
