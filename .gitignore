@@ -1,4 +1,7 @@
 
 *.vsix
 .vscode
+.vscodeignore
 .zshrc
+.vscode/**
+.vscode-test/**
