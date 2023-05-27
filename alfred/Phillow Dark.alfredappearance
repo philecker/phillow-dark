@@ -4,9 +4,9 @@
       "textSpacing" : 5,
       "subtext" : {
         "size" : 12,
-        "colorSelected" : "#FFFFFFC4",
-        "font" : "System",
-        "color" : "#FEFFFF65"
+        "colorSelected" : "#DBDBDBF3",
+        "font" : "Fira Code Light",
+        "color" : "#FEFFFF3D"
       },
       "shortcut" : {
         "size" : 16,
@@ -18,7 +18,7 @@
       "text" : {
         "size" : 15,
         "colorSelected" : "#FFFFFFFF",
-        "font" : "System",
+        "font" : "Fira Code Light",
         "color" : "#B3B3B3FF"
       },
       "iconPaddingHorizontal" : 4,
@@ -33,15 +33,15 @@
       "text" : {
         "size" : 23,
         "colorSelected" : "#FFFFFFFF",
-        "font" : "JetBrains Mono",
+        "font" : "Fira Code Retina",
         "color" : "#DADADAFF"
       },
-      "background" : "#0000001A",
+      "background" : "#171817FF",
       "roundness" : 0,
       "paddingVertical" : 5
     },
     "window" : {
-      "color" : "#171817FF",
+      "color" : "#242526FF",
       "paddingHorizontal" : 5,
       "width" : 559,
       "borderPadding" : 0,
@@ -53,11 +53,11 @@
     "credit" : "Phil Ecker",
     "visualEffectMode" : 2,
     "separator" : {
-      "color" : "#CBCBCBF3",
+      "color" : "#DBDBDBF3",
       "thickness" : 0
     },
     "scrollbar" : {
-      "color" : "#561A72FF",
+      "color" : "#64BE83FF",
       "thickness" : 2
     },
     "name" : "Phillow Dark"
