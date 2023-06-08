@@ -11,8 +11,8 @@
     "editorLineNumber.activeForeground": "#ffffff",
     "editor.background": "#181818",
     "editor.foreground": "#b3b3b3",
-    "editor.lineHighlightBackground": "#333",
-    "editor.lineHighlightBorder": "#333",
+    "editor.lineHighlightBackground": "#2a2a2a",
+    "editor.lineHighlightBorder": "#2c2c2c",
     "editorError.foreground": "#da6a48",
     "editorBracketMatch.border": "#343434", // border color of matching bracket
     "editorBracketMatch.background": "#343434", // background color of matching bracket
@@ -39,7 +39,7 @@
     "sideBarSectionHeader.background": "#2d2d2d",
     "statusBar.background": "#2d2d2d",
     "statusBar.noFolderBackground": "#4C4C4C",
-    "statusBar.debuggingBackground": "#5c3999",
+    "statusBar.debuggingBackground": "#277943",
     "statusBar.border": "#343434",
     "tab.activeBorderTop": "#66be84",
     "terminal.background":"#1C1C1C",

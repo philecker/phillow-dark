@@ -2,6 +2,9 @@
 
 All notable changes to the "phillow-dark" extension will be documented in this file.
 
+### [2.0.2] (06/07/2023)
+- Update active line highlighting
+- Changed status bar debugging background to #277943
 ### [2.0.1] (04/14/2023)
 - Updated Phillow Dark README.md
 ### [2.0.0] (04/13/2023)
