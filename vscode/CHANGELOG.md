@@ -1,7 +1,9 @@
 # Change Log
 
 All notable changes to the "phillow-dark" extension will be documented in this file.
-
+### [2.0.3] (06/08/2023)
+- Update active line highlighting
+- Changed status bar debugging background to #8450c7
 ### [2.0.2] (06/07/2023)
 - Update active line highlighting
 - Changed status bar debugging background to #277943
