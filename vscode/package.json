@@ -3,7 +3,7 @@
     "publisher": "philecker",
     "displayName": "Phillow Dark",
     "description": "Enhanced Dark Theme(s) for Visual Studio Code.",
-    "version": "2.0.3",
+    "version": "3.0.0",
     "repository": {
       "type": "git",
       "url": "https://github.com/philecker/phillow-dark"
@@ -37,32 +37,6 @@
               "label": "Phillow Dark",
               "uiTheme": "vs-dark",
               "path": "./themes/Phillow Dark-color-theme.json"
-          },
-          {
-            "label": "Phillow Dark - Legacy",
-            "uiTheme": "vs-dark",
-            "path": "./themes/Phillow Dark - Legacy-color-theme.json"
-          },
-          {
-            "label": "Phillow Dark - Starkness",
-            "uiTheme": "vs-dark",
-            "path": "./themes/Phillow Dark - Starkness-color-theme.json"
-          }
-          ,
-          {
-            "label": "Phillow Dark - After Dark",
-            "uiTheme": "vs-dark",
-            "path": "./themes/Phillow Dark - After Dark-color-theme.json"
-          },
-          {
-            "label": "Phillow Dark - Before Dawn",
-            "uiTheme": "vs-dark",
-            "path": "./themes/Phillow Dark - Before Dawn-color-theme.json"
-          },
-          {
-            "label": "Phillow Dark - Dark Sky",
-            "uiTheme": "vs-dark",
-            "path": "./themes/Phillow Dark - Dark Sky-color-theme.json"
           }
         ]
     }
