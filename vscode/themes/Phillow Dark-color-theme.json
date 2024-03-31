@@ -9,17 +9,17 @@
     "badge.background": "#66be84",
     "badge.foreground": "#252526",
     "editorLineNumber.activeForeground": "#ffffff",
-    "editor.background": "#181818",
+    "editor.background": "#121212",
     "editor.foreground": "#b3b3b3",
-    "editor.lineHighlightBackground": "#2a2a2a",
+    "editor.lineHighlightBackground": "#292929",
     "editor.lineHighlightBorder": "#2c2c2c",
     "editorError.foreground": "#da6a48",
     "editorBracketMatch.border": "#343434", // border color of matching bracket
     "editorBracketMatch.background": "#343434", // background color of matching bracket
-    "editor.wordHighlightBackground": "#071f28", // background color of elements
-    "editor.findMatchBackground": "#071f28", // background color of current match
-    "editor.findMatchBorder": "#071f28", // border color of current match
-    "editor.findMatchHighlightBackground": "#000000", // background of inactive "find" matches
+    "editor.wordHighlightBackground": "#414141", // background color of elements
+    "editor.findMatchBackground": "#414141", // background color of current match
+    "editor.findMatchBorder": "#414141", // border color of current match
+    "editor.findMatchHighlightBackground": "#242424", // background of inactive "find" matches
     "editor.findMatchHighlightBorder": "#000000", // border of inative "find" matches
     "editor.selectionHighlightBackground": "#000000", // highlights background of inactive matches
     "input.foreground": "#CCCCCC",
@@ -37,7 +37,7 @@
     "sideBar.foreground": "#b3b3b3",
     "sideBarTitle.foreground": "#ffffff",
     "sideBarSectionHeader.background": "#2d2d2d",
-    "statusBar.background": "#2d2d2d",
+    "statusBar.background": "#222222",
     "statusBar.noFolderBackground": "#4C4C4C",
     "statusBar.debuggingBackground": "#8450c7",
     "statusBar.border": "#343434",
